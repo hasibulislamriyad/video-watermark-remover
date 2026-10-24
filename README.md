@@ -1,4 +1,4 @@
-# Clean Cut
+video-watermark-remover
 
 **A free, local video watermark remover for text and logo watermarks.** Upload a video, box the watermark, and get a repaired clip. It only fixes the watermark's own pixels, so the rest of the frame stays sharp. Audio is untouched. Everything runs on your computer, and nothing is uploaded anywhere.
 
@@ -31,7 +31,7 @@ Text that blinks (only some letters visible in a given frame) is also removed:
 Requires **Python 3.9+** and **ffmpeg** on your PATH.
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/clean-cut.git
+https://github.com/hasibulislamriyad/video-watermark-remover
 cd clean-cut
 pip install -r requirements.txt
 python app.py
