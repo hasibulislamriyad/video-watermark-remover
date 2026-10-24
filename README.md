@@ -24,7 +24,7 @@ Requires **Python 3.9+** and **ffmpeg** on your PATH.
 
 ```bash
 git clone https://github.com/hasibulislamriyad/video-watermark-remover
-cd clean-cut
+cd video-watermark-remover
 pip install -r requirements.txt
 python app.py
 ```
