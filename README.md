@@ -16,15 +16,7 @@
 - **Before/after player** in the browser, plus "Detect fixed marks" auto-detection.
 - Keeps the CPU/RAM load low (limited threads, buffered frames scale with resolution).
 
-## Demo
 
-Synthetic test clips (a semi-transparent text watermark). From top to bottom: with watermark, whole-box inpaint, text-only, original clean.
-
-![demo](docs/demo-basic.png)
-
-Text that blinks (only some letters visible in a given frame) is also removed:
-
-![blinking](docs/demo-blinking-text.png)
 
 ## Install
 
