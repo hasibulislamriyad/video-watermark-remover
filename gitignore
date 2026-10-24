@@ -1,0 +1,7 @@
+jobs/
+__pycache__/
+*.pyc
+.venv/
+venv/
+*.mp4
+.DS_Store
