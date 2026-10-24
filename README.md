@@ -1,4 +1,4 @@
-video-watermark-remover
+**video-watermark-remover**
 
 **A free, local video watermark remover for text and logo watermarks.** Upload a video, box the watermark, and get a repaired clip. It only fixes the watermark's own pixels, so the rest of the frame stays sharp. Audio is untouched. Everything runs on your computer, and nothing is uploaded anywhere.
 
