@@ -23,7 +23,7 @@
 Requires **Python 3.9+** and **ffmpeg** on your PATH.
 
 ```bash
-https://github.com/hasibulislamriyad/video-watermark-remover
+git clone https://github.com/hasibulislamriyad/video-watermark-remover
 cd clean-cut
 pip install -r requirements.txt
 python app.py
